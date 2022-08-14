@@ -4,6 +4,7 @@ Data Analysis + To use machine learning algorithms to conduct a sentiment analys
 The dataset can be found here: https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe
 
 # Methods Used
+* Data cleaning and manipulation
 * Data Analysis
 * Data Visualization
 * Natural language processing (NLP)
