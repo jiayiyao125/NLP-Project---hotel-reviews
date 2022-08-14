@@ -1,4 +1,4 @@
-# NLP-Project---hotel-reviews
+# Sentiment-analysis-on-hotel-reviews
 Data Analysis + To use machine learning algorithms to conduct a sentiment analysis
 
 The dataset can be found here: https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe
